@@ -14,7 +14,7 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 
 [FetchAwsSecrets](FetchSecrets.zip)
 
-<a id="raw-url" href="FetchSecrets.zip">Download FILE</a>
+<a id="raw-url" href="FetchSecrets.zip"  target="_blank" >Download FILE</a>
 
 
 ## Step 2 : Extract the zip to any folder
