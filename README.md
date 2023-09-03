@@ -14,17 +14,19 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 
 [FetchAwsSecrets](FetchSecrets.zip)
 
+<a id="raw-url" href="FetchSecrets.zip">Download FILE</a>
+
 
 ## Step 2 : Extract the zip to any folder
 
 ## Step 3 : Launch  FetchSecretManager.exe
 
-## Step 1: enter the key name 
+## Step 4: enter the key name 
 
 > Sample cert/nhe/hesi/testtaker/config
 
 
-## Step 2:  Hit Fetch
+## Step 5:  Hit Fetch
 
 
 ``` json
@@ -33,6 +35,6 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 
 ```
 
-## Step 3:  Click Copy to add to Clipboard
+## Step 6:  Click Copy to add to Clipboard
 
 
