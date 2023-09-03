@@ -15,6 +15,8 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 
 <a id="raw-url" href="https://downgit.github.io/#/home?url=https://github.com/ShahidRKhan/AWSSecretsManager/blob/main/FetchSecrets.zip"  target="_blank" >Download Exe</a>
 
+<a id="raw-url" href="https://shahidrkhan.github.io/AWSSecretsManager/FetchSecrets.zip"  target="_blank" >Download </a>
+
 
 ## Step 2 : Extract the zip to any folder
 
