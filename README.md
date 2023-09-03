@@ -10,6 +10,15 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 
 # Steps
 
+## Step 1 : Download the application
+
+[FetchAwsSecrets](FetchSecrets.zip)
+
+
+## Step 2 : Extract the zip to any folder
+
+## Step 3 : Launch  FetchSecretManager.exe
+
 ## Step 1: enter the key name 
 
 > Sample cert/nhe/hesi/testtaker/config
