@@ -13,9 +13,7 @@ This tool is built on .Net 7.0 , with its current publish setting ,gets publishe
 ## Step 1 : Download the application
 
 
-[FetchSecrets.zip](https://github.com/ShahidRKhan/AWSSecretsManager/blob/main/FetchSecrets.zip)
-
-<a id="raw-url" href="https://github.com/ShahidRKhan/AWSSecretsManager/blob/main/FetchSecrets.zip"  target="_blank" >Download FILE</a>
+<a id="raw-url" href="https://downgit.github.io/#/home?url=https://github.com/ShahidRKhan/AWSSecretsManager/blob/main/FetchSecrets.zip"  target="_blank" >Download Exe</a>
 
 
 ## Step 2 : Extract the zip to any folder
